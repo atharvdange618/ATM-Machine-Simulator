@@ -1,5 +1,7 @@
 # ATM Machine Simulator with Java Swing and AWT
 
+![ATM-Machine-Simulator](https://socialify.git.ci/atharvdange618/ATM-Machine-Simulator/image?language=1&name=1&owner=1&theme=Light)
+
 An ATM Machine Simulator implemented in Java Swing and AWT, offering a realistic interface and functional operations.
 
 ## Table of Contents
